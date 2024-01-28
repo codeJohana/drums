@@ -79,3 +79,35 @@ background-image:url("images/snare.png");
   margin: 10px;
   background-color: white;
 }
+
+/*bottones para regresar*/
+
+#features {
+  margin-top: 0px;
+  position: relative;
+  z-index: 1;
+}
+
+.ficture-titles {
+  font-size: 1.5rem;
+}
+
+.magen-feactures {
+  margin: 20px 0 0 10px;
+}
+
+.text-features {
+  font-family: "Ubuntu";
+}
+
+.icon {
+  color: #ff4c68;
+  font-size: 5rem;
+  margin-bottom: 20px;
+}
+
+.icon:hover {
+  color: #ef8172;
+}
+
+/* sections */
